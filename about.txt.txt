@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 Nirajan was key for this proyect. He helps me a lot. 
 THANK YOU!!!
+=======
+I joined the repository after Mercedes sent me an request to join it. 
+Further, I created the file Niranjan.txt and later edited the this about.txt file
+>>>>>>> fc5e2c9420ac54cba435cf260a871eab454fe607
