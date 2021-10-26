@@ -1,4 +1,4 @@
-Customer,ST,Customer Lifetime Value,Education,GENDER,Income,Monthly Premium Auto,Number of Open Complaints,Policy Type,Total Claim Amount,Vehicle Class
+Customer,State,Customer Lifetime Value,Education,GENDER,Income,Monthly Premium Auto,Number of Open Complaints,Policy Type,Total Claim Amount,Vehicle Class
 SA25987,Washington,3479.137523,High School or Below,M,0,104,0,Personal Auto,499.2,Two-Door Car
 TB86706,Arizona,2502.637401,Master,M,0,66,0,Personal Auto,3.468912,Two-Door Car
 ZL73902,Nevada,3265.156348,Bachelor,F,25820,82,0,Personal Auto,393.6,Four-Door Car
