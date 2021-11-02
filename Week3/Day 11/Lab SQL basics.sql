@@ -15,6 +15,8 @@ select account_id,amount from loan order by account_id limit 5;
 select account_id from loan where duration=60 order by amount limit 5;
 # query number 8:
 select distinct(k_symbol) from `order`limit 5;
+#we need to filter the empty values
+select distinct(k_symbol) from `order` where k_symbol <> " " order by k_symbol;
 # query number 9:
 select order_id from `order` where account_id=34;
 # query number 10:

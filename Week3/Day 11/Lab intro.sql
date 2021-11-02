@@ -10,7 +10,8 @@ select count(*) from store;
 #query number 5.2
 select count(*) from staff;
 #query number 5.3
-select first_name from staff
+select first_name from staff;
+
 
 
 
